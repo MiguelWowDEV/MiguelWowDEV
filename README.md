@@ -6,6 +6,7 @@ Soy un programador que tiene 3 años de experiencia, mi lenguaje principal y el 
 * Aplicaciones de escritorio
 * Apps CLI
 * CSS para el desarrollo de interfaces modernas
+* Conocimientos basicos en diseño multimedia
 
-Mi twitter personal [twitter]("https://twitter.com/MiguelNDEV")
+Mi twitter personal [twitter](https://twitter.com/MiguelNDEV)
 
